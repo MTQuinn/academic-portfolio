@@ -29,7 +29,7 @@ This project documented the design and construction of a **photoplethysmography 
 ---
 
 ## 📑 Deliverables
-- **Final Report:** [Makayla_Quinn_2320_Final_Project.pdf](PDF Folder/Makayla_Quinn_2320_Final_Project.pdf)  
+- **Final Report:** [Makayla_Quinn_2320_Final_Project.pdf](PDF Folder/Makayla_Quinn_2320_Final_Project.pdf)   
 
 ---
 
