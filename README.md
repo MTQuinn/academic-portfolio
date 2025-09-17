@@ -29,7 +29,7 @@ This project documented the design and construction of a **photoplethysmography 
 ---
 
 ## 📑 Deliverables
-- **Final Report:** [Makayla_Quinn_2320_Final_Project.pdf](Makayla_Quinn_2320_Final_Project.pdf)  
+- **Final Report:** [Makayla_Quinn_2320_Final_Project.pdf](PDF Folder/Makayla_Quinn_2320_Final_Project.pdf)  
 
 ---
 
@@ -62,7 +62,7 @@ The main goal was to translate complex laboratory findings into a **clear, acces
 ---
 
 ## 📑 Deliverables
-- **Final Report:** [BMEN 5210 Final Lab Report_MQ.pdf](BMEN 5210 Final Lab Report_MQ.pdf)  
+- **Final Report:** [BMEN 5210 Final Lab Report_MQ.pdf](PDF Folder/BMEN 5210 Final Lab Report_MQ.pdf)  
 
 ---
 
