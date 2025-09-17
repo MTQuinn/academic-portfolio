@@ -29,7 +29,7 @@ This project documented the design and construction of a **photoplethysmography 
 ---
 
 ## 📑 Deliverables
-- **Final Report:** [Biomedical_Instruments_Report.pdf](Biomedical_Instruments_Report.pdf)  
+- **Final Report:** [BMEN 5210 Final Lab Report_MQ (1).pdf](BMEN 5210 Final Lab Report_MQ (1).pdf)  
 
 ---
 
@@ -62,7 +62,7 @@ The main goal was to translate complex laboratory findings into a **clear, acces
 ---
 
 ## 📑 Deliverables
-- **Final Report:** [Hydrogel_Research_Report.pdf](Hydrogel_Research_Report.pdf)  
+- **Final Report:** [BMEN 5210 Final Lab Report_MQ (1).pdf](BMEN 5210 Final Lab Report_MQ (1).pdf)  
 
 ---
 
