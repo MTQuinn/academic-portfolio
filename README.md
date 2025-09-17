@@ -62,7 +62,7 @@ The main goal was to translate complex laboratory findings into a **clear, acces
 ---
 
 ## 📑 Deliverables
-- **Final Report:** [BMEN 5210 Final Lab Report_MQ.pdf](PDF_Folder/BMEN_5210_Final_Lab_Report_MQ.pdf)  
+- **Final Report:** [BMEN 5210 Final Lab Report_MQ.pdf](PDFs/BMEN_5210_Final_Lab_Report_MQ.pdf)  
 
 ---
 
